@@ -1,0 +1,58 @@
+# Laboratoriomecanicadesuelos — Logrono
+
+> Geotechnical engineering services in Logrono, España.
+
+## Services
+- [Aislacion Sismica](https://logrono.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://logrono.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas](https://logrono.laboratoriomecanicadesuelos.org/calicatas/)
+- [Calicatas Exploratorias](https://logrono.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://logrono.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://logrono.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://logrono.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://logrono.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://logrono.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://logrono.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayos Proctor](https://logrono.laboratoriomecanicadesuelos.org/ensayos-proctor/)
+- [Estabilidad Taludes](https://logrono.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://logrono.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://logrono.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://logrono.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://logrono.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://logrono.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://logrono.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://logrono.laboratoriomecanicadesuelos.org/grouting/)
+- [Inyecciones](https://logrono.laboratoriomecanicadesuelos.org/inyecciones/)
+- [Laboratorio In Situ](https://logrono.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://logrono.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://logrono.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://logrono.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://logrono.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Losas Fundacion](https://logrono.laboratoriomecanicadesuelos.org/losas-fundacion/)
+- [Masw](https://logrono.laboratoriomecanicadesuelos.org/masw/)
+- [Masw Vs30](https://logrono.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://logrono.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://logrono.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://logrono.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://logrono.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://logrono.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://logrono.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://logrono.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Permeabilidad In Situ](https://logrono.laboratoriomecanicadesuelos.org/permeabilidad-in-situ/)
+- [Pilotes](https://logrono.laboratoriomecanicadesuelos.org/pilotes/)
+- [Refraccion Sismica](https://logrono.laboratoriomecanicadesuelos.org/refraccion-sismica/)
+- [Resistividad](https://logrono.laboratoriomecanicadesuelos.org/resistividad/)
+- [Sismica](https://logrono.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondajes Spt](https://logrono.laboratoriomecanicadesuelos.org/sondajes-spt/)
+- [Taludes](https://logrono.laboratoriomecanicadesuelos.org/taludes/)
+- [Triaxial](https://logrono.laboratoriomecanicadesuelos.org/triaxial/)
+- [Tuneles Suelo Blando](https://logrono.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://logrono.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+- [Zapatas](https://logrono.laboratoriomecanicadesuelos.org/zapatas/)
+
+## Contact
+- Website: https://logrono.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Logrono, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
